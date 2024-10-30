@@ -1,0 +1,117 @@
+body  {
+    background-color: #aad4cf;
+}
+
+.outer-box {
+    width: 75vh;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #d4e9e7;
+    position: relative;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+ .main-text {
+    color: white;
+    text-align: center;
+    top: 17vh;
+    left: 50%;
+    font-size: 24px;
+    transform: translate(-50%, -50%);
+    position:absolute;
+ }
+
+ .nav-table {
+    width: 100%; /* Full width */
+    border-collapse: collapse; /* Merge borders */
+}
+
+.nav-table td {
+    border-right: 1px solid black; 
+    text-align: center; 
+    padding: 10px; 
+}
+
+.nav-table td:last-child {
+    border-right: none; 
+}
+
+.nav-table a {
+    text-decoration: none; 
+    color: black; 
+}
+
+.introphoto {
+    width: 170px;
+    float: left;
+    margin-right: 10px;
+}
+
+.intro {
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+h2 {
+    padding-left: 10px;
+}
+
+.facts {
+    padding: 10px;
+}
+
+.inner-box {
+    width: 90%;
+    margin: auto;
+    /* margin: 10px auto; */
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.input {
+    display: block;
+    width: 96%; 
+    height: 5px;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.heading-3 {
+    padding-left: 10px;
+}
+
+.contact h3 {
+    margin-bottom: 10px; 
+    padding-left: 20px;
+    }
+
+
+.input-two {
+    display: block;
+    width: 96%; 
+    height: 50px;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.Submit {
+    background-color: #d4e9e7;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.footer {
+    text-align: right; /* Aligns text to the right */
+    padding: 10px; /* Adds some padding */
+}
+
+.button-container {
+    margin-top: 10px; /* Adjust spacing as needed */
+    clear: both; /* Ensures the button starts on a new line */
+}
