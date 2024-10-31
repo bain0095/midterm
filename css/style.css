@@ -27,8 +27,8 @@ body  {
  }
 
  .nav-table {
-    width: 100%; /* Full width */
-    border-collapse: collapse; /* Merge borders */
+    width: 100%; 
+    border-collapse: collapse; 
 }
 
 .nav-table td {
@@ -69,7 +69,6 @@ h2 {
 .inner-box {
     width: 90%;
     margin: auto;
-    /* margin: 10px auto; */
     padding: 10px;
     border: 1px solid black;
 }
@@ -107,11 +106,11 @@ h2 {
 }
 
 .footer {
-    text-align: right; /* Aligns text to the right */
-    padding: 10px; /* Adds some padding */
+    text-align: right; 
+    padding: 10px; 
 }
 
 .button-container {
-    margin-top: 10px; /* Adjust spacing as needed */
-    clear: both; /* Ensures the button starts on a new line */
+    margin-top: 10px; 
+    clear: both; 
 }
